@@ -1,5 +1,5 @@
 # read_large_file_multiprocessing
-this is a demo for reading large file using multiprocessing in python2. The following test result is
+This is a demo for reading large file using multiprocessing in python2. The following test result is
 based on a easy file which has 10000000 lines and the test machine has 56 cores:
 
 |processing number|cost time(s)|
